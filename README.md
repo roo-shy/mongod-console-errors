@@ -1,4 +1,4 @@
-## A few commands that will solve some issues:
+## A few commands that will solve some issues while running mongod:
 
 - `sudo rm /data/db/mongod.lock`
 
