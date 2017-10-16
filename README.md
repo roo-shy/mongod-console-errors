@@ -1,4 +1,4 @@
-## A few commands that will solve some issues while running mongod:
+## A few commands that will kill cashed server:
 
 - `sudo rm /data/db/mongod.lock`
 
